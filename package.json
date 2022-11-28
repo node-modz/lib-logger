@@ -1,11 +1,8 @@
 {
   "name": "@node-modz/lib-logger",
-  "version": "1.0.4",
+  "version": "1.0.6",
   "description": "Library to print logs of javascript application",
   "main": "./dist/index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/node-modz/lib-logger.git"
@@ -13,9 +10,10 @@
   "keywords": [
     "logs",
     "lib-logger",
-    "node-modz"
+    "node-modz",
+    "Wavelabs"
   ],
-  "author": "Jagadishwer Bathula",
+  "author": "Wavelabs Team",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/node-modz/lib-logger/issues"
